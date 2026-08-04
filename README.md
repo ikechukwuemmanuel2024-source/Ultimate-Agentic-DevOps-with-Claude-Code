@@ -40,3 +40,12 @@ Add this line (example):
 ```
 
 ✅ This proof must be visible in your browser screenshot submission.
+
+## Footer Deployment
+
+The portfolio footer displays:
+
+Pravin Mishra Portfolio v1.0 — Deployed on 04 Aug 2026 — By <Your Name>
+
+Deployment Date Approach:
+The deployment date is updated manually each time the website is deployed to EC2.
