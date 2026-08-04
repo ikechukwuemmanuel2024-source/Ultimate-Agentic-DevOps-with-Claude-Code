@@ -45,7 +45,7 @@ Add this line (example):
 
 The portfolio footer displays:
 
-Pravin Mishra Portfolio v1.0 — Deployed on 04 Aug 2026 — By <Your Name>
+Pravin Mishra Portfolio v1.0 — Deployed on 04 Aug 2026 — By Ikechukwu Emmanuel
 
 Deployment Date Approach:
 The deployment date is updated manually each time the website is deployed to EC2.
